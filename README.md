@@ -1,8 +1,11 @@
-# Python-Challenge
+# Python-Analysis
+
+## Background
+This analysis uses python script to analyze CSV data. The scripts read in CSVs, utilize with open, for loops, conditional statements, lists, append functionalitly, and basic statistical calculations (such as minimum, maximum, average, and percent change).
 
 ## PyBank
 
-* In this challenge, my task is to create a Python script for analyzing the financial records of a company. I was given a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* In this part of the project, my task wass to create a Python script for analyzing the financial records of a company. I was given a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * My task was to create a Python script that analyzes the records to calculate each of the following:
 
@@ -32,7 +35,7 @@
 
 ## PyPoll
 
-* In this challenge, I was tasked with helping a small, rural town modernize its vote counting process.
+* In this part of the porject, I was tasked with helping a small, rural town modernize its vote counting process.
 
 * I was given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task was to create a Python script that analyzes the votes and calculates each of the following:
 
