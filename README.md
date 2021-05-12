@@ -1,7 +1,7 @@
 # Python-Analysis
 
 ## Background
-This analysis uses python script to analyze CSV data. The scripts read in CSVs, utilize with open, for loops, conditional statements, lists, append functionalitly, and basic statistical calculations (such as minimum, maximum, average, and percent change).
+This analysis uses python script to analyze CSV data. The scripts read in CSVs, utilize with open, for loops, conditional statements, lists, append functionality, and basic statistical calculations (such as minimum, maximum, average, and percent change).
 
 ## PyBank
 
